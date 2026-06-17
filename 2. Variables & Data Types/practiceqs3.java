@@ -1,5 +1,5 @@
 
-
+import java.util.Scanner;
 public class practiceqs3 {
 
     public static void main(String[] args) {
